@@ -21,8 +21,11 @@
 Αφού άνοιξα ένα νέο αρχείο 2D παιχνιδιού το Unity, πέρασα την εικόνα  του ήρωα του παιχνιδιού, σαν assets.
 
 ![](dpsdXXXXX/ballons.png%0D)
+
  ![](dpsdXXXXX/boy.png%0D)
+
   ![](dpsdXXXXX/pink.png%0D)
+  
   ![](dpsdXXXXX/airballon.png) 
 
 
