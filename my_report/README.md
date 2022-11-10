@@ -22,12 +22,7 @@
 
 
 
-
-
-  ![](dpsdXXXXX/pink.png%0D)
-
- 
-
+![](dpsdXXXXX/pink.png)
 
  Έκοψα την συγκεκριμένη εικόνα και έφτιαξα μια μια κίνηση ξεχωριστά. Ρυθμίζοντας στο το "Sprite Mode" ως  "Multiple" και επειτα πήγα να το επεξεργαστώ.
 
@@ -39,8 +34,14 @@
 
 ![](dpsdXXXXX/scripts1.png)
 
-# 2nd Deliverable
+Υστερα δημιοόυργησα τα εξης:
+Ενα φακελο "Grid" οπου ορισα το πάτωμα σε αυτό.
+Mεσα στα assets μου tiles, αφου εφτιαξα την πιστα μου κατέβασα απο το ιντερνετ εικονες με δίαφορα αντικειμενα για το DEcoretion της πιστας.  
+![](dpsdXXXXX/tiles.png)
+![](dpsdXXXXX/Decorate.png)
+![](dpsdXXXXX/crop_object.png)
 
+# 2nd Deliverable
 
 # 3rd Deliverable 
 
