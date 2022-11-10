@@ -1,9 +1,9 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### First and Last Name: Νίνου Ιωάννα
+### University Registration Number: dpsd19085
+### GitHub Personal Profile: https://github.com/IoannaNi
+### Digital & Serious Games Personal Repository: https://github.com/IoannaNi/Role-Playing-Game
 
 # Introduction
 
@@ -11,7 +11,27 @@
 
 
 # 1st Deliverable
+Για την εκτέλεση του ψηφιακού παιχνιδιού ακολούθησαν κάποια βήματα . 
+Αρχικά σύνδεσα το link μου με το αρχείο και την αναφορά του παιχνιδιού.
 
+![](dpsdXXXXX/link.png)
+
+
+ Ύστερα σχεδίασα τα δικά μου assets που θα χρησιμοποιήσω για το παιχνίδι. Ζωγράφισα δυο ήρωες την “Pink” και τον “Jo”, τη φιγούρα να περπατάει, να στέκετε ,να επιτίθεται με το “όπλο”του, να πηδάει και να μεταμφιέζεται όταν κερδίζει την πίστα . Έπειτα σχεδίασα τον στόχο του ήρωα που είναι μπαλόνια , τα οποία προσπαθεί ο χρήστης να τα σκάσει.
+Αφού άνοιξα ένα νέο αρχείο 2D παιχνιδιού το Unity, πέρασα την εικόνα  του ήρωα του παιχνιδιού, σαν assets.
+
+[](dpsdXXXXX/ballons.png%0D) [](dpsdXXXXX/boy.png%0D) [](dpsdXXXXX/pink.png%0D) ![](dpsdXXXXX/airballon.png) 
+
+
+ Έκοψα την συγκεκριμένη εικόνα και έφτιαξα μια μια κίνηση ξεχωριστά. Ρυθμίζοντας στο το "Sprite Mode" ως  "Multiple" και επειτα πήγα να το επεξεργαστώ.
+
+
+![](dpsdXXXXX/crop.png)
+
+
+Αφού ετοίμασα τις εικόνες από τους ήρωες του παιχνιδιού , δημιούργησα  ένα script. Το script είναι ένας φάκελος όπου εκεί θα είναι τα αρχεία C , που θα υπάρχουν όλοι οι μετασχηματισμοί και όλες οι κινήσεις που θα υπάρχουν στο παιχνίδι, είτε για να κινείται η φιγούρα , είναι να εκτελεί άλλες εντολές . Συγκεκριμένα δημιούργησα ένα αρχείο που το ονόμασα Controller και το πέρασα σαν ιδιότητα του παίκτη , με αποτέλεσμα η φιγούρα να κινείται με συγκεκριμένα πλήκτρα(πάνω-κάτω-δεξιά-αριστερά). 
+
+![](dpsdXXXXX/scripts1.png)
 
 # 2nd Deliverable
 
