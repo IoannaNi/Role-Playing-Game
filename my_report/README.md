@@ -55,8 +55,27 @@ Mεσα στα assets μου tiles, αφου εφτιαξα την πιστα μ
 
 
  2. Προσθήκης αντικειμένων που θα δίνουν ζωή στον παίκτη. 
- Αρχικά έκανα κάποιες αλλαγές στον κώδικα του παίκτη.
+ Αρχικά πρόσθεσα αντικείμενα που θα παίρνει ζωή ο παίκτης μου, τα οποία είναι μπαλόνια, τα οποία μπαλόνια τα σχεδίασα μόνη μου. Έπειτα, έκανα κάποιες αλλαγές στον κώδικα του παίκτη, έτσι ώστε με το που πάει να το πίασει παίρνει μια ζωη και το μπαλόνι εξαφανίζεται. 
+ Όρισα στα μπαλόνια τις παρακάτω ιδιότητες για να μπορει ο παίκτης να το πιάνει και να μην συκρούεται.
 
+![](dpsdXXXXX/2.02.png)
+![](dpsdXXXXX/ballons.png)
+
+3. Προσθήκη εχθρού
+
+![](dpsdXXXXX/enemydead.png)
+
+
+![](dpsdXXXXX/bullet.png)
+![](dpsdXXXXX/Pink_Up.png)
+![](dpsdXXXXX/dead.png)
+![](dpsdXXXXX/animation.png)
+![](dpsdXXXXX/animator.png)
+![](dpsdXXXXX/ballon_idiot.png)
+![](dpsdXXXXX/dead_animator.png)
+![](dpsdXXXXX/enemy_animator.png)
+![](dpsdXXXXX/enemy_idiot.png)
+![](dpsdXXXXX/bulletidiot.png)
 
 # 3rd Deliverable 
 
