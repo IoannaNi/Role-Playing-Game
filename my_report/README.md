@@ -132,6 +132,13 @@ Mεσα στα assets μου tiles, αφου εφτιαξα την πιστα μ
   ![](dpsdXXXXX/camerafollow.png)
 
 # 3rd Deliverable 
+Για το τρίτο παραδοτέο ακολούθησα το tutorial. 
+
+**Head-Up**
+Αρχικά σχεδιασα τα τρια κομμάτια που υλοποιούν το bar(περιγραμμα + ζωή + το προφιλ). Ακολούθησα το tutorial.
+
+ ![](dpsdXXXXX/canvas.png)
+
 
 
 # Conclusions
@@ -149,30 +156,42 @@ Mεσα στα assets μου tiles, αφου εφτιαξα την πιστα μ
 
 **Εχθρός(σχεδιασμένο από εμένα):**
 
+
 ![](dpsdXXXXX/enemydead.png)
 
 
 
 **Ζωές (σχεδιασμένο από εμένα):**
 
+
+
 ![](dpsdXXXXX/ballons.png)
+
+
 
 
 **Πληροφορίες  (σχεδιασμένο από εμένα):**
 
+
 Πατώντας το "x" 
+
 
 
 ![](dpsdXXXXX/Screenshot%20(9).png)
 
 
+
+
 **Πόντοι:**
+
+
 
 ![](dpsdXXXXX/points.png)
 
 
 
 **Health Bar (σχεδιασμένο από εμένα):**
+
 
 ![](dpsdXXXXX/HealthBar.png)
 
