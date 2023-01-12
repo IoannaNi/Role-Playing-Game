@@ -136,6 +136,49 @@ Mεσα στα assets μου tiles, αφου εφτιαξα την πιστα μ
 
 # Conclusions
 
+**Κυρίως μενού (σχεδιασμένο από εμένα):**
+![](dpsdXXXXX/menu.png)
+
+**Βασικός Παίκτης(σχεδιασμένο από εμένα):**
+
+![](dpsdXXXXX/Pink_Up.png)
+
+
+
+**Εχθρός(σχεδιασμένο από εμένα):**
+
+![](dpsdXXXXX/enemydead.png)
+
+
+
+**Ζωές (σχεδιασμένο από εμένα):**
+
+![](dpsdXXXXX/ballons.png)
+
+
+**Πληροφορίες  (σχεδιασμένο από εμένα):**
+Πατώντας το "x" 
+![](dpsdXXXXX/Screenshot%20(9).png)
+
+
+**Πόντοι:**
+![](dpsdXXXXX/points.png)
+
+**Health Bar (σχεδιασμένο από εμένα):**
+![](dpsdXXXXX/HealthBar.png)
+
+
+**Σφαίρα (σχεδιασμένο από εμένα):**
+Πατώντας το "Ctrl" or "Clik"
+![](dpsdXXXXX/sfaira.png)
+
+**Τηλεμεταφορά (σχεδιασμένο από εμένα):** 
+Πατώντας το "t" 
+![](dpsdXXXXX/teleport.png)
+
+
+
+
 
 # Sources
 https://www.youtube.com/watch?v=FXqwunFQuao
